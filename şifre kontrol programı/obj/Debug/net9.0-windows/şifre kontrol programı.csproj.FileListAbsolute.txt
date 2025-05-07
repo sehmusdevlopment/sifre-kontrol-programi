@@ -1,0 +1,16 @@
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre_kontrol_programı.Form1.resources
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.csproj.GenerateResource.cache
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.AssemblyInfoInputs.cache
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.AssemblyInfo.cs
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.csproj.CoreCompileInputs.cache
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\bin\Debug\net9.0-windows\şifre kontrol programı.exe
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\bin\Debug\net9.0-windows\şifre kontrol programı.deps.json
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\bin\Debug\net9.0-windows\şifre kontrol programı.runtimeconfig.json
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\bin\Debug\net9.0-windows\şifre kontrol programı.dll
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\bin\Debug\net9.0-windows\şifre kontrol programı.pdb
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.dll
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\refint\şifre kontrol programı.dll
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.pdb
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\şifre kontrol programı.genruntimeconfig.cache
+C:\Users\SARP\source\repos\şifre kontrol programı\şifre kontrol programı\obj\Debug\net9.0-windows\ref\şifre kontrol programı.dll
